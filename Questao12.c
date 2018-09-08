@@ -3,6 +3,8 @@
 //Hadênia Rodrigues Ferreira
 //Questão 12
 
+#include <stdio.h>
+
 int main(){
     float aloha[10], coisas[10][5], *pf, value = 2.2;
     int i=3;
