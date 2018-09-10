@@ -40,5 +40,6 @@ int main(int argc)
     for (i=0; i<n; i++){
           printf("%.1f ", x[i]);
     }
+    free(x);
     return 0;
 }
