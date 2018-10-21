@@ -1,4 +1,4 @@
-//UFRN - Programação Avançada
+﻿//UFRN - Programação Avançada
 //BC&T - Ênfase em Tecnologia de Computação
 //Hadênia Rodrigues Ferreira
 //Questão 18
@@ -8,7 +8,7 @@
 #include <string.h>
 #include <time.h>
 
-int i, n;
+int i, n, k;
 
 int *soma(int *a, int *b, int *sun, int n){
     for (i=0; i<n; i++){
